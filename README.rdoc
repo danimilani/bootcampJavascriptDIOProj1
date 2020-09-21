@@ -1,0 +1,3 @@
+Projeto 1 - Recriando a pagina inicial do instagram
+
+Este projeto foi desenvolvido durante o Bootcamp Javascript Game Developer da Digital Innovation One. Neste projeto, eu pude recriar a página inicial do Instagram.
