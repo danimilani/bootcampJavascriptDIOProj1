@@ -8,7 +8,6 @@ Este projeto foi desenvolvido durante o Bootcamp da Digital Innovation One. Nest
 
 - [x] HTML
 - [x] CSS
-- [x] Javascript
 
 ## Status do Projeto
 
